@@ -23,3 +23,7 @@
 
 # Welcome to the Muhammad Adil Raza wiki!
 ## I am MERN STACK developer . Open source enthusiast Full time freelancer and Software Engineering Studnet I am Foundr of MARSEC DEVELOPER INC PAKISTAN 1.2 Million worth startup Successfully Satisfied 40 international clients and I love to work remotely . I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. I and A creative web developer and designer that works with great joy . i will design develop and fix your website for your events include designing user interactions on websites, developing servers and databases for website functionality and coding for mobile platforms . i am also a good designer and creative writer
+
+
+# If you love my work andwant to support me then sponser me .
+https://github.com/madilraza/muetfolio/blob/master/.github/FUNDING.yml
