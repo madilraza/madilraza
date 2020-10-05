@@ -7,16 +7,15 @@
 ## I don’t know what keeps me going. Sometimes I wonder… I think it’s just pure perseverance and wanting to succeed and having that burning desire to always have success!
 
 
-<p align="center"> 
-  <kbd>
-<img src="https://scontent.fkhi11-1.fna.fbcdn.net/v/t1.0-9/87457257_854533344974443_4844503151727869952_n.jpg?_nc_cat=111&_nc_sid=13bebb&_nc_eui2=AeF6rKD8lJ6r4exE_z0vPuars9W6Fuxn_syz1boW7Gf-zKCY0Eh6eNIkNaCFmVkzY9DCowMrIGR6a8g_DJKAP-R9&_nc_ohc=BVYSqP3bvKEAX8_ayzY&_nc_ht=scontent.fkhi11-1.fna&oh=6aa6853acf60b6ead8a2c4f03ff26d35&oe=5F4EAF47"></img>
-  </kbd>
-</p>
+
+  
 
 
 
 
 
+
+## 
 
 <h1 align="center">Hi 👋, I'm madilraza</h1>
 <h3 align="center">I AM FULLSTACK DEVELOPER CEO/FOUNDER OF MARSEC DEVELOPER INC PAKISTAN . OPEN SOURCE ENTHUSAIST .BLOCKCHAIN EVENGLIST . MEMBER OF HBR ASCEND SELECT .GOOGLE DSC LEAD 2021 . PASSIONAT TOWARDS BUILDING AND DELIVERING BEST SOLUTIONS . TECH ENTHUSIAST . WRITTER AND BLOGGER</h3>
